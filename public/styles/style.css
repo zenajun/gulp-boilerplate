@@ -131,9 +131,13 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-.container {
-  max-width: 900px;
+html {
+  font-size: 62.5%; }
+
+.wrapper {
+  width: 80%;
+  max-width: 1200px;
   margin: 0 auto; }
 
-body {
-  background: cornflowerblue; }
+h1 {
+  text-align: center; }
