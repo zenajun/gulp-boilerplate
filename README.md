@@ -1,4 +1,7 @@
 # gulp-boilerplate
-Delete packagelock and node modules
-npm i
-test
+
+## npm intall
+_npm i_ **or** _npm install_
+
+## Run Gulp
+_gulp_
