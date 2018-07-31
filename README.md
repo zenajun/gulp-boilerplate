@@ -1,5 +1,5 @@
 # gulp-boilerplate
 
-_npm i_ **or** _npm install_
-
-_gulp_
+1. Git Clone
+1. _npm i_ **or** _npm install_
+1. _gulp_
