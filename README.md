@@ -1,5 +1,7 @@
 # gulp-boilerplate
 
-1. Git Clone
-1. _npm i_ **or** _npm install_
-1. _gulp_
+1. `git clone` this repo
+1. `npm i` **or** `npm install_`
+1. `gulp`
+
+
