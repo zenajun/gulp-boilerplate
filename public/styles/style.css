@@ -134,10 +134,5 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
 html {
   font-size: 62.5%; }
 
-.wrapper {
-  width: 80%;
-  max-width: 1200px;
-  margin: 0 auto; }
-
-h1 {
-  text-align: center; }
+body {
+  background: pink; }
